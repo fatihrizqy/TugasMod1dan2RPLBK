@@ -1,7 +1,7 @@
 import React from 'react';
 
 const asisten = {
-    name : 'Anas Noor Hakim',
+    name : 'Fatih Rizqy Hakim',
     jurusan : 'Teknik Komputer 2020'
 };
 function greetings(asisten){
